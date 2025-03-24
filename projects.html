@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
- <head>
-   <title>projects page</title>
-   <style>
+   <head>
+    <title>Dragon5559's page</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
 table, th, td {
   border: 1px solid white;
   border-collapse: collapse;
@@ -10,19 +11,49 @@ table, th, td {
 th, td {
   background-color: #FF8C50;
 }
-   </style>
- </head>
+      .header{
+                border: 1px solid #b3b3b3;
+                color: white;
+                border-collapse: collapse;
+            }
+            th,td{
+                background-color: #3d3d3d;
+            }
+            .dropbtn{
+                background-color: #3d3d3d;
+                color: white;
+                font-weight: bold;
+                padding: 16px;
+                font-size: 16px;
+                border: none;
+            }
+            .dropdown{
+                position: relative;
+                display: inline-block;
+            }
+            .dropdown-content{
+                display: none;
+                border: 1px solid black;
+                position: absolute;
+                background-color: #3d3d3d;
+                width: 7vw;
+                z-index: 1;
+            }
+            .dropdown:hover .dropdown-content
+            {display: block;}
+            .droptable{
+                margin: auto;
+                width: 50%;
+                color: white;
+                border-bottom: 1px black;
+            }
+    </style>
+  </head>
   <body>
-    <table style="width:100%">
-        <tr>
-          <th style="width:72%"></th>
-          <th style="width:7%"><a href="index.html">home</a></th>
-          <th style="width:7%"><a href="projects.html">projects</a></th>
-          <th style="width:7%"><a href="accounts.html">accounts</a></th>
-          <th style="width:7%"><a href="testing.html">testing</a></th>
-        </tr>
-      </table>
+    <nav>
+      <script src='header.js'></script>
+      <template></template>
+    </nav>
     <h1>My projects</h1>
-    <iframe src="Chatroom_3.0 (3).html" height="500" width="500" title="chatwindow"></iframe>
   </body>
 </html>
