@@ -12,13 +12,13 @@ template.innerHTML=
                     <div class="dropdown-content">
                         <table>
                             <tr style="border-bottom: 1px black;">
-                                <td class="droptable"><a href="about.html" style="color: white;">About</a></td>
+                                <td class="droptable"><a href="accounts.html" style="color: white;">Accounts</a></td>
                             </tr>
                             <tr style="border-bottom: 1px black;">
-                                <td class="droptable"><a href="image.html" style="color: white">images</a></td>
+                                <td class="droptable"><a href="projects.html" style="color: white">projects</a></td>
                             </tr>
                             <tr style="border-bottom: 1px black;">
-                                <td class="droptable"><a href="sponsor.html" style="color: white">sponsors</a></td>
+                                <td class="droptable"><a href="testing.html" style="color: white">testing</a></td>
                             </tr>
                             <tr style="border-bottom: 1px black;">
                                 <td class="droptable">filler</td>
