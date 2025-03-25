@@ -41,3 +41,11 @@ template.innerHTML=
 </nav>
 `
 document.body.appendChild(template.content);
+
+
+const header = document.createElement('header');
+header.innerHTML=
+`
+<link rel="icon" type="image/x-icon" href="C flame.png">
+`
+document.body.appendChild(header.content);
