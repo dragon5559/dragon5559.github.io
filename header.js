@@ -24,7 +24,7 @@ template.innerHTML=
                                 <td class="droptable"><a href="testing.html" style="color: white">Testing</a></td>
                             </tr>
                             <tr style="border-bottom: 1px black;">
-                                <td class="droptable">filler</td>
+                                <td class="droptable">Test</td>
                             </tr>
                             <tr style="border-bottom: 1px black;">
                                 <td class="droptable">filler</td>
