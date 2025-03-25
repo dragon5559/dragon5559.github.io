@@ -4,7 +4,7 @@ template.innerHTML=
 <nav>
     <table style="width: 100%;">
         <tr class="header">
-            <th style="width:3%"><a href="index.html"><img src="https://u.cubeupload.com/3055team/aflamingandspinnings.png" style="width: 100%;height: 100%;"></a></th>
+            <th style="width:3%"><a href="index.html"><img src="C flame.png" style="width: 100%;height: 100%;"></a></th>
             <th style="width: 72%"></th>
             <th style="width: 7%;">
                 <div class="dropdown">
