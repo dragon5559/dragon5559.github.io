@@ -2,7 +2,7 @@ const template = document.createElement('template');
 template.innerHTML=
 `
 <nav>
-    <table style="width: 100%;">
+    <table style="width: 100%;border: none;">
         <tr class="header">
             <th style="width:3%"><a href="index.html"><img src="C flame.png" style="width: 100%;height: 100%;"></a></th>
             <th style="width: 72%"></th>
