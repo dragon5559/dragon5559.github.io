@@ -4,6 +4,9 @@ table, th, td {
 th, td {
   background-color: #b3b3b3;
 }
+p {
+  z-index: 1;
+}  
       .header{
                 border: 1px solid #b3b3b3;
                 color: white;
