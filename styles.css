@@ -13,10 +13,10 @@ p {
                 border-collapse: collapse;
             }
             th,td{
-                background-color: #BDBDBD;
+                background-color: #313131;
             }
             .dropbtn{
-                background-color: #BDBDBD;
+                background-color: #313131;
                 color: white;
                 font-weight: bold;
                 padding: 16px;
